@@ -1,6 +1,6 @@
 ## EC2 Public IP fetcher
 
-When I started playing with EC2, looking up instance metadata using the AWS command line utility didn't work very reliably for me, so I decided to write a self contained tool - for ease of scripting - which I still use today.
+When I started playing with EC2, looking up instance metadata using the AWS command line utility didn't work very reliably for me, so, for ease of scripting, I decided to write a self contained tool which I still use to this day.
 
 ### Usage
 <pre>
