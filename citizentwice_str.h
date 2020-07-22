@@ -1,6 +1,6 @@
 /*
 
-C++ string util library - coded by Luigi Galli LG@citizentwice.nl
+C++ string util library - coded by Luigi Galli GIT@THLG.nl
 
 MIT License
 
