@@ -51,7 +51,7 @@ The SDK is a quite a large project and compiling it may take a long time, taking
 
 ### Feedback/Contact
 Thanks for visting.
-* Email: [LG@citizentwice.nl](mailto:GIT@THLG.nl)
+* Email: [GIT@THLG.nl](mailto:GIT@THLG.nl)
 
 ### License
 MIT
